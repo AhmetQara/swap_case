@@ -1,9 +1,7 @@
 def swap_case(s):
     
     my_word = ''
-
-    # [char for char in word]
-
+    
     for char in s:
         
         if char.islower():
